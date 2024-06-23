@@ -1,5 +1,4 @@
 # Web-Dev-P1
-Pricing landing page
 <br>
 Pricing Landing Page Welcome to our Pricing Landing Page repository!
 
